@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VelikiFeniks0
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning how to be happy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord: VelikiFeniks#6049
+- 🌱 I’m currently learning stuff
+- 💞️ I’m looking to collaborate on, no thank you!
+- 📫 How to reach me: you can't reach me that easily ;)
   
 <!---
 VelikiFeniks0/VelikiFeniks0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
